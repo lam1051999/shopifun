@@ -191,7 +191,7 @@ export const signIn = (username, password, history) => {
       .then(response => {
         dispatch(logIn(response.data.username, response.data.jwtToken));
         alert("Sign in successfully");
-        history.push("/");
+        history.push("/shopifun");
       })
       .catch(err => alert("Sign in failed , you enter the wrong username"));
   };
