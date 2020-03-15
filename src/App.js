@@ -23,7 +23,7 @@ function App() {
         <main style={{ paddingBottom: "20px" }}>
           <Header />
           <Switch>
-            <Route exact path="/shopifun" component={AllProducts} />
+            <Route exact path="/tranlam.shop" component={AllProducts} />
             <Route path="/phones" component={Phones} />
             <Route path="/laptops" component={Laptops} />
             <Route path="/watches" component={Watches} />

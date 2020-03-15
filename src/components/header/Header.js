@@ -84,13 +84,13 @@ const Header = () => {
             <div className={classes.siteContainer}>
               <Badge>
                 <LocalMallOutlinedIcon
-                  onClick={() => history.push("/shopifun")}
+                  onClick={() => history.push("/tranlam.shop")}
                   className={classes.mainIcon}
                 />
               </Badge>
               <Badge>
                 <Typography
-                  onClick={() => history.push("/shopifun")}
+                  onClick={() => history.push("/tranlam.shop")}
                   className={classes.typo}
                 >
                   Shopifun
@@ -109,7 +109,7 @@ const Header = () => {
               <IconButton>
                 <Badge>
                   <StoreOutlinedIcon
-                    onClick={() => history.push("/shopifun")}
+                    onClick={() => history.push("/tranlam.shop")}
                     className={classes.icon}
                   />
                 </Badge>
