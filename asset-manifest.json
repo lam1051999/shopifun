@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/shopifun/static/css/main.18fa7607.chunk.css",
+    "main.js": "/shopifun/static/js/main.6212a0b9.chunk.js",
+    "main.js.map": "/shopifun/static/js/main.6212a0b9.chunk.js.map",
+    "runtime-main.js": "/shopifun/static/js/runtime-main.1abdbee5.js",
+    "runtime-main.js.map": "/shopifun/static/js/runtime-main.1abdbee5.js.map",
+    "static/js/2.1aad317f.chunk.js": "/shopifun/static/js/2.1aad317f.chunk.js",
+    "static/js/2.1aad317f.chunk.js.map": "/shopifun/static/js/2.1aad317f.chunk.js.map",
+    "index.html": "/shopifun/index.html",
+    "precache-manifest.05071324a0d395a3bc97a9fea2e2559f.js": "/shopifun/precache-manifest.05071324a0d395a3bc97a9fea2e2559f.js",
+    "service-worker.js": "/shopifun/service-worker.js",
+    "static/css/main.18fa7607.chunk.css.map": "/shopifun/static/css/main.18fa7607.chunk.css.map",
+    "static/js/2.1aad317f.chunk.js.LICENSE.txt": "/shopifun/static/js/2.1aad317f.chunk.js.LICENSE.txt",
+    "static/media/coinsPng.png": "/shopifun/static/media/coinsPng.de179020.png",
+    "static/media/paymentPng.png": "/shopifun/static/media/paymentPng.bc180984.png",
+    "static/media/salesoffPng.png": "/shopifun/static/media/salesoffPng.88eb3859.png",
+    "static/media/shippingPng.png": "/shopifun/static/media/shippingPng.08b54a63.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1abdbee5.js",
+    "static/js/2.1aad317f.chunk.js",
+    "static/css/main.18fa7607.chunk.css",
+    "static/js/main.6212a0b9.chunk.js"
+  ]
+}
