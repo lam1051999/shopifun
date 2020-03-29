@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/shopifun/static/css/main.18fa7607.chunk.css",
-    "main.js": "/shopifun/static/js/main.6212a0b9.chunk.js",
-    "main.js.map": "/shopifun/static/js/main.6212a0b9.chunk.js.map",
+    "main.js": "/shopifun/static/js/main.b6e558ac.chunk.js",
+    "main.js.map": "/shopifun/static/js/main.b6e558ac.chunk.js.map",
     "runtime-main.js": "/shopifun/static/js/runtime-main.1abdbee5.js",
     "runtime-main.js.map": "/shopifun/static/js/runtime-main.1abdbee5.js.map",
     "static/js/2.1aad317f.chunk.js": "/shopifun/static/js/2.1aad317f.chunk.js",
     "static/js/2.1aad317f.chunk.js.map": "/shopifun/static/js/2.1aad317f.chunk.js.map",
     "index.html": "/shopifun/index.html",
-    "precache-manifest.05071324a0d395a3bc97a9fea2e2559f.js": "/shopifun/precache-manifest.05071324a0d395a3bc97a9fea2e2559f.js",
+    "precache-manifest.e22c049320bc198f83d2107e5e6f9fdd.js": "/shopifun/precache-manifest.e22c049320bc198f83d2107e5e6f9fdd.js",
     "service-worker.js": "/shopifun/service-worker.js",
     "static/css/main.18fa7607.chunk.css.map": "/shopifun/static/css/main.18fa7607.chunk.css.map",
     "static/js/2.1aad317f.chunk.js.LICENSE.txt": "/shopifun/static/js/2.1aad317f.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.1abdbee5.js",
     "static/js/2.1aad317f.chunk.js",
     "static/css/main.18fa7607.chunk.css",
-    "static/js/main.6212a0b9.chunk.js"
+    "static/js/main.b6e558ac.chunk.js"
   ]
 }
