@@ -22,6 +22,7 @@ function App() {
       <main style={{ backgroundColor: "#f5f5f5", minHeight: "100%" }}>
         <main style={{ paddingBottom: "20px" }}>
           <Header />
+          <div>mot hai ba bon nam sau</div>
           <Switch>
             <Route exact path="/shopifun" component={AllProducts} />
             <Route path="/phones" component={Phones} />
