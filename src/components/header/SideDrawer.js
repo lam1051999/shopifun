@@ -33,7 +33,7 @@ const SideDrawer = ({ open, onClose }) => {
   return (
     <Drawer anchor="left" open={open} onClose={onClose}>
       <List>
-        <ListItem button onClick={onClose} component={Link} to="/tranlam.shop">
+        <ListItem button onClick={onClose} component={Link} to="/shopifun">
           <ListItemIcon>
             <StoreOutlinedIcon className={classes.icon} />
           </ListItemIcon>

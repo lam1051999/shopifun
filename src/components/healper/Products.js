@@ -119,7 +119,7 @@ const Products = props => {
   }, [limit, props.query, type, sort]);
   useEffect(() => {
     switch (location.pathname) {
-      case "/tranlam.shop":
+      case "/shopifun":
         return setCategory("All products");
       case "/phones":
         return setCategory("Phones");
